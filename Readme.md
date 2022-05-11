@@ -11,7 +11,7 @@ Explore the code to understand it.
 Clone the project and submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/SmoothProcess/lvhelp-example
+git clone --recurse-submodules https://github.com/SmoothProcess/lvhelp-example.git
 ```
 
 Use CMake to build.
