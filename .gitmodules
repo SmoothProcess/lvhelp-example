@@ -1,0 +1,9 @@
+[submodule "magic_get"]
+	path = magic_get
+	url = https://github.com/apolukhin/magic_get
+[submodule "lvtk"]
+	path = lvtk
+	url = https://github.com/lvtk/lvtk
+[submodule "lvhelp"]
+	path = lvhelp
+	url = https://github.com/SmoothProcess/lvhelp.git
